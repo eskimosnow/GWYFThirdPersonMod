@@ -1,0 +1,9 @@
+{
+  "name": "GWYFThirdPersonMod",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/eskimosnow/GWYFThirdPersonMod",
+  "description": "Adds a configurable third-person camera system to GWYF with improved player perspective and gameplay visibility.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
