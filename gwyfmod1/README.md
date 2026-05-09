@@ -1,4 +1,4 @@
-GWYF Third Person Mod
+## GWYF Third Person Mod
 
 Adds a third-person camera to Gamble With Your Friends so you can play more and puke less!
 
