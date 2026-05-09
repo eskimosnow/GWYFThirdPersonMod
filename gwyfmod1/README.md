@@ -2,7 +2,8 @@
 
 Adds a third-person camera to Gamble With Your Friends so you can play more and puke less!
 
-Features:
+## Features:
+
 - Third-person gameplay camera
 - Adjustable camera zoom distance via mouse scroll-wheel
 - Disabled camera breathing effect for reduced motion sickness
